@@ -1,0 +1,19 @@
+INDEX VERSION 1.131+F:\Shubham\Courses\MainCourses\JUnit-with-Mockito\.metadata\.plugins\org.eclipse.jdt.core
+853448838.index
+2392635640.index
+2834379284.index
+1650425552.index
+4086760931.index
+1347892109.index
+585377748.index
+2850026474.index
+680918969.index
+3889298199.index
+780925695.index
+75931715.index
+3096558413.index
+4080017693.index
+2478488207.index
+3150774809.index
+2495305764.index
+3174125635.index
